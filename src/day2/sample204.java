@@ -1,6 +1,6 @@
 package day2;
 
-public class sample204 {
+public class Sample204 {
 
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
