@@ -9,7 +9,7 @@ public class Sample206 {
 		System.out.println(STRING);
 		
 		//	finalがついた変数は値を替えられない（定数）
-		NUMBER = 100;
-		STRING = "fuga";
+//		NUMBER = 100;
+//		STRING = "fuga";
 	}
 }
